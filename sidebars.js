@@ -21,6 +21,13 @@ const sidebars = {
         "resellership"
       ],
       collapsible: false,
+    }, {
+      type: "category",
+      label: "Getting Started",
+      items: [
+        "setup",
+      ],
+      collapsible: false,
     },
   ],
 };
