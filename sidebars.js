@@ -28,6 +28,13 @@ const sidebars = {
         "setup",
       ],
       collapsible: false,
+    }, {
+      type: "category",
+      label: "Misc",
+      items: [
+        "changelog",
+      ],
+      collapsible: false,
     },
   ],
 };
