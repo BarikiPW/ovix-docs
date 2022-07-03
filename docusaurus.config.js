@@ -6,8 +6,8 @@ docusaurusConfig = {
   onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "https://ovix.one/logo.png",
-  organizationName: "ovix",
-  projectName: "ovix",
+  organizationName: "BarikiPW",
+  projectName: "OVIX",
   themeConfig: {
     colorMode: {
       defaultMode: "dark",
