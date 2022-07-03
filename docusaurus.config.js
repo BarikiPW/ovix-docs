@@ -73,7 +73,7 @@ docusaurusConfig = {
       },
     ],
   ],
-  scripts: [],
+  scripts: [{src: 'https://metrica.cyn.gg/js/plausible.js', defer: true},],
   plugins: [
     [
       "@docusaurus/plugin-client-redirects",
